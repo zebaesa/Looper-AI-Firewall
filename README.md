@@ -37,11 +37,10 @@ https://loopersec.et/
 
 ---
 
----
-
 <h2> Prepare your dataset or use the pre-built model </h2>
 Take a look on the notebooks. The data preparation one will help you create your own dataset and the ML WAF one will help you understand the theory and create your own model!
 If you just want to run the application, unpack the zip file and use the pre-generated pkl file :).
+---
 
 ## 🔧 How to Set Up the Firewall
 
